@@ -4,7 +4,8 @@
 
 layout: home
 ---
-
+# Brittany Lewis
+### bflewis@uri.edu
 
 <img src="img\me.jpg" alt="a photo of Brittany Lewis" width="200"/>
 
