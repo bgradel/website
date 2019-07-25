@@ -3,4 +3,4 @@ email: bflewis@my.uri.edu
 baseurl: ""
 url: ""
 
-theme: jekyll-theme-minimal
+theme: minima
