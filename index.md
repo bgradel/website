@@ -15,7 +15,7 @@ My research focus is in authentication and biometrics. I would like my research 
 
 # Publications
 
-- Singh, Rohitpal, et al. "A Machine Learning-based Approach for Collaborative Non-Adherence Detection during Opioid Abuse Surveillance using a Wearable Biosensor." Biomedical engineering systems and technologies, international joint conference, BIOSTEC... revised selected papers. BIOSTEC (Conference). Vol. 5. 2019.
-- Lewis, Brittany, et al. "Authentication-Based on Biomechanics of Finger Movements Captured Using Optical Motion-Capture." International Symposium on Visual Computing. Springer, Cham, 2018.
+- Singh, Rohitpal, Brittany Lewis, Brittany Chapman, Stephanie Carreiro, and Krishna Venkatasubramanian. "A Machine Learning-based Approach for Collaborative Non-Adherence Detection during Opioid Abuse Surveillance using a Wearable Biosensor." In Biomedical engineering systems and technologies, international joint conference, BIOSTEC... revised selected papers. BIOSTEC (Conference), vol. 5, pp. 310-318. 2019.
+- Lewis, Brittany, Christopher J. Nycz, Gregory S. Fischer, and Krishna K. Venkatasubramanian. "Authentication-Based on Biomechanics of Finger Movements Captured Using Optical Motion-Capture." In International Symposium on Visual Computing, pp. 167-179. Springer, Cham, 2018.
 
 
