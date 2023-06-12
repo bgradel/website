@@ -26,6 +26,6 @@ My research focus is on improving authentication for people with upper body moto
 
 # Other Awards
 - (2019) NSF GRFP Honorable Mention
-- (2018) Worcester Polytechnic Institute Presidental Fellowship
+- (2018) Worcester Polytechnic Institute Presidential Fellowship
 
 
