@@ -9,9 +9,9 @@ layout: home
 
 # About Me
 
-I am currently a PhD candidate at The University of Rhode Island working with Professor Krishna Venkatasubramanian.
+I recently graduated with my PhD from The University of Rhode Island.
 
-My research focus is on improving authentication for people with upper body motor disabilities.
+My previous research focus has been on improving authentication for people with upper body motor disabilities.
 
 # Publications
 
